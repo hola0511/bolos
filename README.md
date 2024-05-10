@@ -40,6 +40,6 @@ orientación a objetos y teniendo en cuenta la modularización y la abstracción
 
 Al finalizar, suba el enlace al repositorio con la solución del taller (incluyedo el diseño de clases)  
 
-El diagrama UML es el siguiente:  
+# Diagrama UML 
 
 ![img_1.png](img_1.png)
