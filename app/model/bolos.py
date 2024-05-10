@@ -27,7 +27,7 @@ class Juego:
         for frame in self.frames:
             self.puntaje_total += frame.puntaje()
 
-        # Manejo especial del frame 10
+
         if self.frames[9].es_strike() or self.frames[9].es_spare():
             puntaje_frame_10 = self.frames[9].puntaje()
 
